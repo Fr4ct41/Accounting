@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{321411B9-7B8C-4E3F-8DD0-BE8A7943DFB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncomeExpensesAccounting", "IncomeExpensesAccounting\IncomeExpensesAccounting.csproj", "{45BEE2F4-7656-4155-933C-102F9409D92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321411B9-7B8C-4E3F-8DD0-BE8A7943DFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321411B9-7B8C-4E3F-8DD0-BE8A7943DFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321411B9-7B8C-4E3F-8DD0-BE8A7943DFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321411B9-7B8C-4E3F-8DD0-BE8A7943DFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BEE2F4-7656-4155-933C-102F9409D92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BEE2F4-7656-4155-933C-102F9409D92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BEE2F4-7656-4155-933C-102F9409D92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BEE2F4-7656-4155-933C-102F9409D92D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
